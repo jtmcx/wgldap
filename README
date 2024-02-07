@@ -1,0 +1,6 @@
+                                 wgldap
+                                 ======
+
+`wgldap` is an OpenBSD command line utility that configures a wireguard
+interface using data from an LDAP database. It is very much a work in
+progress. 
